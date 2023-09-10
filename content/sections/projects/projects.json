@@ -7,7 +7,7 @@
       "description": "Accepted by the 17th IEEE International Conference AVSS as the first author. Proposed an object-integrity aware model maintaining high accuracy with FPS 96 on 1024x 2048 image with 3% (mIoU) enhancement to the base model. Please visit the link below for the publication.",
       "tags": ["Machine Learning","Computer Vision","Semantic Segmentation", "Self-Attention"],
       "image": {
-        "src": "../../images/fs.jpeg",
+        "src": "../../images/7.jpeg",
         "alt": "Semantic Segmentation",
         "linkTo": "https://ieeexplore.ieee.org/document/9663738"
       },
@@ -22,10 +22,10 @@
       "visible": true,
       "category": "Startup Project",
       "title": "Generative AI Learning Platform",
-      "description": "Developed e-learning platform with Next.js, optimized server operations, integrated RESTful APIs, and enhanced MySQL communication with OpenAI integration. Click the icon below to visit the website.",
+      "description": "Developed e-learning platform with Next.js, optimized server operations, integrated RESTful APIs, and enhanced MySQL communication with OpenAI integration. Click the icon below or image to visit the website.",
       "tags": ["Next.js","MySQL","RESTful API","Database","User Interview"],
       "image": {
-        "src": "../../images/promptseed.jpeg",
+        "src": "../../images/elearning.jpeg",
         "alt": "Prompt Seed AI",
         "linkTo": "https://www.promptseed.ai/"
       },
@@ -43,7 +43,7 @@
       "description": "Developed dynamic backend for user content and social interactions, added interactive features (post liking/ voting/ leaderboard), integrated RESTful APIs, and managed MySQL CRUD operations.",
       "tags": ["Flask","MySQL","Database"],
       "image": {
-        "src": "../../images/411.jpeg",
+        "src": "../../images/trip.jpeg",
         "alt": "Itinerary Recommendation Social Media",
         "linkTo": "https://youtu.be/hTFF7fkD-J4"
       },
@@ -61,7 +61,7 @@
       "description": "Developed dynamic backend for user content and social interactions, added interactive features (post liking/ voting/ leaderboard), integrated RESTful APIs, and managed MySQL CRUD operations.",
       "tags": ["Custom Sections", "Easy-2-Use"],
       "image": {
-        "src": "../../images/484.jpeg",
+        "src": "../../images/car.jpeg",
         "alt": "Extendable Layout",
         "linkTo": "https://youtu.be/KaKDgxp49qg"
       },
