@@ -10,11 +10,10 @@
   },
   "title": "This is David Chen",
   "subtitle": {
-    "prefix": " I'm  a ",
-    "highlight": "Full-Stack, AI/ ML Engineer in CV and NLP",
+    "highlight": "Full-Stack, AI/ ML in Computer Vision and NLP",
     "suffix": "."
   },
-  "description": " I am actively looking for full-time opportunities. Please feel free to reach",
+  "description": " I am actively looking for full-time opportunities. Please feel free to reach out !!!",
   "socialProfiles": {
     "from": ["LinkedIn"],
     "showIcons": true

@@ -3,14 +3,14 @@
     {
       "label": "Full-Stack Engineering",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/fullstack.png",
         "alt": ""
       }
     },
     {
       "label": "Machine Learning",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/ml.png",
         "alt": ""
       }
     },
@@ -24,35 +24,35 @@
     {
       "label": "Computer Vision",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/cv.png",
         "alt": ""
       }
     },
     {
       "label": "NLP",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/nlp.png",
         "alt": ""
       }
     },
     {
       "label": "Next.js",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/nextjs.png",
         "alt": ""
       }
     },
     {
       "label": "MySQL",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/mysql.png",
         "alt": ""
       }
     },
     {
       "label": "PyTorch",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/pytorch.png",
         "alt": ""
       }
     }
