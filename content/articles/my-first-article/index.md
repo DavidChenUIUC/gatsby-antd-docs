@@ -13,7 +13,7 @@ keywords:
   - "Example"
   - "Gatsby"
   - "Markdown"
-  - "Blog"
+  # - "Blog"
 ---
 
 ## Code block test

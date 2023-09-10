@@ -1,9 +1,9 @@
 {
-  "name": "Gatsby Starter For Portfolio Minimal",
-  "email": "example@mail.com",
-  "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
+  "name": "David Chen",
+  "email": "teweiwc2@illinois.edu",
+  "description": "I am always happy to network and talk about new opportunities. Feel free to reach out to me at any time!",
   "image": {
-    "src": "../../images/favicon.png",
+    "src": "../../images/headshot.jpg",
     "alt": "Gatsby Logo"
   },
   "socialProfiles": {

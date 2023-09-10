@@ -1,14 +1,16 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/headshot.jpg"
+imageAlt: "About Me"
 ---
+Hi, I'm David Chen, a graduate student from UIUC with a focus on AI and ML. I am currently working at Rivian as a Machine Learning Intern (was the Camera Imaging Intern before the current role). 
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+​
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+My personal projects covers an _**[AI E-Llearning Platform](https://www.promptseed.ai)**_, optimization of control-based autonomous vehicle routing, and IEEE recognized research paper in semantic segmentation.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+Beyond that, I channel my passion for AI as a content creator. Our team's _**[newsletter](https://theaiespresso.substack.com/)**_ garners thousands of views, boasting an open rate that doubles the industry average.
+
+​
+> At this moment, I am actively looking for new grad opportunities. Please feel free to reach out at _**teweiwc2@illinois.edu**_. Thanks. 

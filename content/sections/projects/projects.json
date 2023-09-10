@@ -2,46 +2,94 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "Research Project",
+      "title": "Far-Sighted BiSeNet V2 for Real-time Semantic Segmentation",
+      "description": "Accepted by the 17th IEEE International Conference AVSS as the first author. Proposed an object-integrity aware model maintaining high accuracy with FPS 96 on 1024x 2048 image with 3% (mIoU) enhancement to the base model. Please visit the link below for the publication.",
+      "tags": ["Machine Learning","Computer Vision","Semantic Segmentation", "Self-Attention"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/fs.jpeg",
+        "alt": "Semantic Segmentation",
+        "linkTo": "https://ieeexplore.ieee.org/document/9663738"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://ieeexplore.ieee.org/document/9663738"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "Startup Project",
+      "title": "Generative AI Learning Platform",
+      "description": "Developed e-learning platform with Next.js, optimized server operations, integrated RESTful APIs, and enhanced MySQL communication with OpenAI integration. Click the icon below to visit the website.",
+      "tags": ["Next.js","MySQL","RESTful API","Database","User Interview"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/promptseed.jpeg",
+        "alt": "Prompt Seed AI",
+        "linkTo": "https://www.promptseed.ai/"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "type": "external",
+          "url": "https://www.promptseed.ai/"
         }
       ]
+    },
+    {
+      "visible": true,
+      "category": "Course Project",
+      "title": "Itinerary Recommendation Social Media",
+      "description": "Developed dynamic backend for user content and social interactions, added interactive features (post liking/ voting/ leaderboard), integrated RESTful APIs, and managed MySQL CRUD operations.",
+      "tags": ["Flask","MySQL","Database"],
+      "image": {
+        "src": "../../images/411.jpeg",
+        "alt": "Itinerary Recommendation Social Media",
+        "linkTo": "https://youtu.be/hTFF7fkD-J4"
+      },
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://youtu.be/hTFF7fkD-J4"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Course Project",
+      "title": "Autonomous Vehicle Routes Optimization",
+      "description": "Developed dynamic backend for user content and social interactions, added interactive features (post liking/ voting/ leaderboard), integrated RESTful APIs, and managed MySQL CRUD operations.",
+      "tags": ["Custom Sections", "Easy-2-Use"],
+      "image": {
+        "src": "../../images/484.jpeg",
+        "alt": "Extendable Layout",
+        "linkTo": "https://youtu.be/KaKDgxp49qg"
+      },
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://youtu.be/KaKDgxp49qg"
+        },
+        {
+          "type": "external",
+          "url": "https://drive.google.com/file/d/1kr8o6wImFhFKQcx9yPewG81qgxZAFOLQ/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Research Project",
+      "title": "RGB-Thermal Fusion Semantic Segmentation",
+      "description": "Proposed robust attention fusion modules, enhanced model by 6.4% mIoU, overcame lighting challenges, outperformed multiple ground truths, and achieved 58.3% mIoU over SOTA.",
+      "tags": ["Machine Learning","Computer Vision","Semantic Segmentation", "Self-Attention","Signal Fusion"],
+      "image": {
+        "src": "../../images/mgnet.jpeg",
+        "alt": "Extendable Layout"
+      }
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
     "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
   }

@@ -4,12 +4,13 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-YOURNAME<br />
-YOURSTREET<br />
+David Chen 
+<!-- <br /> -->
+<!-- YOURSTREET<br />
 YOURCITY<br />
-YOURCOUNTRY
+YOURCOUNTRY -->
 
-E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
+E-Mail Address: <u>teweiwc2@illinois.edu</u>
 
 ---
 
