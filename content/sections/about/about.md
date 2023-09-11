@@ -1,5 +1,5 @@
 ---
-imageSrc: "../../images/headshot.jpg"
+imageSrc: "../../images/me.jpg"
 imageAlt: "About Me"
 ---
 **David Chen** is an AI-focused master's student specializing in Electrical and Computer Engineering at the University of Illinois Urbana-Champaign (UIUC). With a keen interest in <u>AI</u> and <u>startups</u>, he's always eager to take on new challenges.

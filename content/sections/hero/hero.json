@@ -1,19 +1,14 @@
 {
-  "intro": "Hello",
+  "intro": "This is David Chen",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/headshot.jpg",
     "alt": "My Photo"
   },
-  "image": {
-    "src": "../../images/waving-hand.png",
-    "alt": "Waving Hand Emoji"
-  },
-  "title": "This is David Chen",
   "subtitle": {
     "highlight": "Full-Stack, AI/ ML in Computer Vision and NLP",
     "suffix": "."
   },
-  "description": " I am actively looking for full-time opportunities. Please feel free to reach out !!!",
+  "description": "Actively looking for full-time opportunities.\nPlease feel free to reach out !!!",
   "socialProfiles": {
     "from": ["LinkedIn"],
     "showIcons": true
