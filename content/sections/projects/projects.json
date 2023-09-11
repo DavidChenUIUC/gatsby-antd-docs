@@ -59,7 +59,7 @@
       "category": "Course Project",
       "title": "Autonomous Vehicle Routes Optimization",
       "description": "Developed dynamic backend for user content and social interactions, added interactive features (post liking/ voting/ leaderboard), integrated RESTful APIs, and managed MySQL CRUD operations.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "tags": ["ROS", "Control Theory", "Gazebo"],
       "image": {
         "src": "../../images/car.jpeg",
         "alt": "Extendable Layout",
