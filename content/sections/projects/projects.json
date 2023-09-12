@@ -7,7 +7,7 @@
       "description": "Accepted by the 17th IEEE International Conference AVSS as the first author. Proposed an object-integrity aware model maintaining high accuracy with FPS 96 on 1024x 2048 image with 3% (mIoU) enhancement to the base model. Please visit the link below for the publication.",
       "tags": ["Machine Learning","Computer Vision","Semantic Segmentation", "Self-Attention"],
       "image": {
-        "src": "../../images/7.jpeg",
+        "src": "../../images/7.jpg",
         "alt": "Semantic Segmentation",
         "linkTo": "https://ieeexplore.ieee.org/document/9663738"
       },
@@ -25,7 +25,7 @@
       "description": "1st place in UIUC Research Park Hackathon. Rivian Adventure is a retro-inspired game showcasing offroad camping, R1T's turbo speed, abundant charging stations, and efficient service center support.",
       "tags": ["PyGame","Agile Development"],
       "image": {
-        "src": "../../images/rivian.gif",
+        "src": "../../images/rivian.jpg",
         "alt": "rivian",
         "linkTo": "https://youtu.be/4WL72N0womw"
       },
