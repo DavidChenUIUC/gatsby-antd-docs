@@ -20,6 +20,32 @@
     },
     {
       "visible": true,
+      "category": "UIUC Research Park Hackathon",
+      "title": "Rivian Adventure Retro Game",
+      "description": "1st place in UIUC Research Park Hackathon. Rivian Adventure is a retro-inspired game showcasing offroad camping, R1T's turbo speed, abundant charging stations, and efficient service center support.",
+      "tags": ["PyGame","Agile Development"],
+      "image": {
+        "src": "../../images/rivian.gif",
+        "alt": "rivian",
+        "linkTo": "https://youtu.be/4WL72N0womw"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/advaithbala/uirphack_2023"
+        },
+        {
+          "type": "youtube",
+          "url": "https://youtu.be/4WL72N0womw"
+        },
+        {
+          "type": "external",
+          "url": "https://researchpark.illinois.edu/article/first-research-park-hackathon-paid-homage-to-retro-games/"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "Startup Project",
       "title": "Generative AI Learning Platform",
       "description": "Developed e-learning platform with Next.js, optimized server operations, integrated RESTful APIs, and enhanced MySQL communication with OpenAI integration. Click the icon below or image to visit the website.",
