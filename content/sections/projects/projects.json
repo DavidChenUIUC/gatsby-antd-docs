@@ -22,8 +22,8 @@
       "visible": true,
       "category": "Research/ Course Project",
       "title": "Analyzing Hallucinations Using Small Language Models",
-      "description": "This project aims to empirically study hallu- cination patterns using a family of small lan- guage models (SLMs). By varying the model size, dataset diversity, and amount of compute",
-      "tags": ["NLP","Hallucination Control", "Large Language Model"],
+      "description": "This project aims to empirically study hallucination patterns using a family of small language models (SLMs). By varying the model size, dataset diversity, and amount of compute",
+      "tags": ["NLP","Hallucination Control", "Small Language Model", "LLM"],
       "image": {
         "src": "../../images/LLM-hallucination.png",
         "alt": "LLM Hallucination Control",
