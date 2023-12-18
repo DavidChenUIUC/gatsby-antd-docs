@@ -2,6 +2,42 @@
   "projects": [
     {
       "visible": true,
+      "category": "Research/ Course Project",
+      "title": "Attack-LDM: Adversarial Image Generation with Latent Diffusion Model",
+      "description": "Generate impercetible adversarial images with latent diffusion model. Several innovative attack approaches are propsoed and investigated. Please visit the link below for the work.",
+      "tags": ["Computer Vision","Adversarial Attack", "Cross-Attention"],
+      "image": {
+        "src": "../../images/cv-project.png",
+        "alt": "Adversarial Attack",
+        "linkTo": "https://drive.google.com/file/d/1P_l5540pjZJR_xQcd6yjpzpd3a9Ca8-P/view?usp=sharing"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://drive.google.com/file/d/1P_l5540pjZJR_xQcd6yjpzpd3a9Ca8-P/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Research/ Course Project",
+      "title": "Analyzing Hallucinations Using Small Language Models",
+      "description": "This project aims to empirically study hallu- cination patterns using a family of small lan- guage models (SLMs). By varying the model size, dataset diversity, and amount of compute",
+      "tags": ["NLP","Hallucination Control", "Large Language Model"],
+      "image": {
+        "src": "../../images/LLM-hallucination.png",
+        "alt": "LLM Hallucination Control",
+        "linkTo": "https://drive.google.com/file/d/1L5xnRWNvdBwm0tmnuik9PODd5bv-zi2P/view?usp=sharing"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://drive.google.com/file/d/1L5xnRWNvdBwm0tmnuik9PODd5bv-zi2P/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "Research Project",
       "title": "Far-Sighted BiSeNet V2 for Real-time Semantic Segmentation",
       "description": "Accepted by the 17th IEEE International Conference AVSS as the first author. Proposed an object-integrity aware model maintaining high accuracy with FPS 96 on 1024x 2048 image with 3% (mIoU) enhancement to the base model. Please visit the link below for the publication.",
